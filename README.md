@@ -9,7 +9,9 @@
 - 💓 All about living life at its best.
 
 
-[![](https://github-readme-stats.vercel.app?username=wrchen2001)](https://github.com/anuraghazra/github-readme-stats)
+![info](https://github-readme-stats.vercel.app/api?username=wrchen2001&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+
 [![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 
 
