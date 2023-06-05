@@ -9,5 +9,8 @@
 - 💓 All about living life at its best.
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app?username=wrchen2001)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
