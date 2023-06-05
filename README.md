@@ -2,9 +2,9 @@
 
 - 🌱 I'm currently learning Everything I like.
 
-- 💻 How to reach me: 2502724266@qq.com 
+- 💻 How to reach me: 2502724266@qq.com or 1910405031@stu.suda.edu.cn
 
-- 👀 I’m interested in Computer VisionComputer Vision, Chinese Information processing, Machine Learning, Deep Learning
+- 👀 I’m interested in Computer Vision, Chinese Information processing, Machine Learning, Deep Learning.
 
 
 
