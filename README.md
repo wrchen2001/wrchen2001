@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning everything I like.
 
-- 💻 How to contact me: 2502724266@qq.com, wrchen2023@stu.suda.edu.cn and wrchen2023@outlook.com.
+- 💻 How to contact me: wrchen2023@stu.suda.edu.cn and wrchen2023@outlook.com.
 
 - 👀 I’m interested in Computer Vision, Chinese Information processing, Machine Learning, Deep Learning.
 
