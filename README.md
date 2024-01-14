@@ -4,7 +4,7 @@
 
 - 💻 How to contact me: wrchen2023@stu.suda.edu.cn and wrchen2023@outlook.com.
 
-- 👀 I’m interested in Computer Vision, Chinese Information processing, Machine Learning, Deep Learning.
+- 👀 I’m interested in Computer Vision, Chinese Information processing, Machine Learning and Deep Learning.
 
 - 💓 All about living life at its best.
 
